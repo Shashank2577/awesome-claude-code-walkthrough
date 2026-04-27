@@ -1,0 +1,6 @@
+.DS_Store
+.omc/
+*.log
+.vscode/
+.idea/
+node_modules/
